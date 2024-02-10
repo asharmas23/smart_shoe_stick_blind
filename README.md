@@ -7,7 +7,9 @@ This project aims to empower visually impaired individuals with enhanced mobilit
 - **Obstacle Detection**: Advanced ultrasonic sensors scan the environment to identify obstacles.
 - **Tactile Feedback**: Shoes equipped with vibration motors alert users to obstacles in their path.
 - **Auditory Assistance**: The smart stick provides voice feedback, offering guidance and alerting to nearby objects.
+- **Smart Stick Functionality**: Utilizes triangular similarity for precise distance estimation of obstacles. The system is calibrated against known distances to ensure accuracy. Additionally, it can discern the direction of movement of obstacles, informing the user whether they are approaching or moving away.
 - **Technical Foundation**: Utilizes Arduino for real-time sensor data processing and Raspberry Pi for higher-level computations and future AI enhancements.
+
 
 ## Getting Started
 
