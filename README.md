@@ -31,6 +31,7 @@ Simply turn on the system before navigating. It operates autonomously, providing
 Check out the demo videos of our project in action:
 
 - [Smart Stick Demo](https://drive.google.com/file/d/12NtS703Rsj_H3_AfF9RCfvnMGIbw5ML9/view?usp=drive_link) - See the smart stick in action, providing auditory guidance for navigation.
+- [Algorithm Demo](https://drive.google.com/file/d/1wLWtqbkrkL7EZWAVbJ5hCyek8MSqjkXK/view?usp=drive_link) - See the smart stickalgorithm detecting obstacles in action.
 - [Project Presentation](https://docs.google.com/presentation/d/1TXjCPGO8dwfwxDyN-Ayo1SjHRshNBHgx/edit?usp=sharing&ouid=106273310714653555766&rtpof=true&sd=true) - See a presentation describing the purpose, approach & solution of this project
 
 ## Future Development
