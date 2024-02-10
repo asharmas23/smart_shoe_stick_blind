@@ -44,6 +44,6 @@ We welcome contributions! Whether it's feature suggestions, bug reports, or code
 This project is licensed under the MIT License - see the `LICENSE` file for details.
 
 ## Contact Us
-For any questions or collaboration inquiries, please reach out via [insert contact information].
+For any questions or collaboration inquiries, please reach out via [amansharma23buf@gmail.com].
 
 Your support and contributions are invaluable as we work towards creating a more accessible and navigable world for the visually impaired.
